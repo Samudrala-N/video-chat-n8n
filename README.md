@@ -7,7 +7,7 @@ This is a Next.js application for a video chat interface.
 To run the development server, open a terminal and run the following commands:
 
 ```bash
-cd "video-chat final/video-chat-nextjs"
+cd "video-chat-nextjs"
 npm run dev
 ```
 
